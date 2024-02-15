@@ -1,2 +1,5 @@
 print("probando")
-pass
+class Ave():
+    def __init__(self):
+
+        pass
